@@ -1,0 +1,13 @@
+name: RentNYC
+title: RentNYC
+username:
+account: davisrb3
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2803406
+bundleId: 3626388
+url: https://davisrb3.shinyapps.io/RentNYC/
+when: 1600066254.1493
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: RentNYC.Rmd
